@@ -2,19 +2,13 @@
     "name": "snake",
     "description": "",
     "dependencies": {
-        "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "core": "*"
     },
     "files": [
         "main.blocks",
-        "main.ts",
-        "README.md",
-        "main.py"
+        "main.ts"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
+    "testFiles": [],
     "targetVersions": {
         "branch": "v7.0.57",
         "tag": "v7.0.57",
